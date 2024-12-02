@@ -65,6 +65,7 @@ The deep learning framework incorporates the following key components:
 **Statistical Analysis:**
 Perform correlation analysis between clinical features and gene expression
 Conduct statistical tests to compare different patient groups
+
 ***Requirements***
 1. Python 3.x
 2. Scanpy
