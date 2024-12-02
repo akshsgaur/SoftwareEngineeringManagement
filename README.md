@@ -16,7 +16,8 @@ https://datasets.cellxgene.cziscience.com/ee226a77-6ec1-4a16-b653-8cbacd3876bc.h
 https://datasets.cellxgene.cziscience.com/7bb8238f-b5a7-4bbd-9c00-244e2b72e140.h5ad
 
 **Methodology**
-Data Preprocessing:
+
+***Data Preprocessing:***
 
 Download and load datasets using the cellxgene_census library
 
@@ -43,7 +44,7 @@ Apply Lasso regression for feature importance analysis
 Implement other machine learning models to predict disease progression
 
 
-***Deep Learning Framework***
+***Deep Learning Framework:***
 
 The deep learning framework incorporates the following key components:
 
