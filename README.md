@@ -51,6 +51,7 @@ Install required packages: pip install -r requirements.txt
 Run the Jupyter notebook or Python scripts to perform the analysis
 
 **Results**
+
 The project aims to:
 
 Identify key genes and pathways associated with mitochondrial dysfunction in dementia
