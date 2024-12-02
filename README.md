@@ -6,7 +6,7 @@ Data integration from multiple single-cell RNA-seq datasets
 Quality control and filtering of cellular data
 Analysis of mitochondrial gene expression and dysfunction markers
 Investigation of Alzheimer's disease progression using Braak staging
-Machine learning models to identify key features associated with dementia
+Machine learning models to identify key features associated with dementia.
 
 **Data Sources**
 The project uses three primary datasets from the CELLxGENE Census:
