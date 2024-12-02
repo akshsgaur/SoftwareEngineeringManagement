@@ -17,18 +17,48 @@ https://datasets.cellxgene.cziscience.com/7bb8238f-b5a7-4bbd-9c00-244e2b72e140.h
 
 **Methodology**
 Data Preprocessing:
+
 Download and load datasets using the cellxgene_census library
+
 Merge datasets and perform initial quality control
+
 Filter cells based on gene detection, UMI counts, and mitochondrial gene expression
-Feature Selection:
+
+***Feature Selection:***
+
 Identify common genes across datasets
+
 Extract relevant clinical features (e.g., Braak stage, APOE4 status)
-Exploratory Data Analysis:
+
+***Exploratory Data Analysis:***
+
 Visualize data using dimensionality reduction techniques (PCA, t-SNE, UMAP)
+
 Analyze distribution of mitochondrial gene expression across different disease stages
-Machine Learning Modeling:
+
+***Machine Learning Modeling:***
+
 Apply Lasso regression for feature importance analysis
+
 Implement other machine learning models to predict disease progression
+
+
+***Deep Learning Framework***
+The deep learning framework incorporates the following key components:
+
+1. A multi-layer neural network architecture designed to handle high-dimensional single-cell gene expression data
+2. Input layers that process gene expression profiles and clinical features
+3. Hidden layers with appropriate activation functions to capture complex relationships in the data
+4. Output layers for predicting dementia status and mitochondrial dysfunction levels
+5. The neural network was implemented using TensorFlow and Keras, leveraging GPU acceleration for efficient training on large-scale genomic datasets.
+
+***Key features of the deep learning framework include:***
+1. Data preprocessing and normalization techniques specific to single-cell RNA-seq data
+2. Implementation of batch normalization and dropout layers to prevent overfitting
+3. Utilization of advanced optimization algorithms such as Adam for model training
+4. Integration of attention mechanisms to identify important genes and cellular pathways
+6. This deep learning approach complements the traditional machine learning and statistical analyses, providing additional insights into the complex biological mechanisms underlying mitochondrial dysfunction in dementia.
+
 
 **Statistical Analysis:**
 Perform correlation analysis between clinical features and gene expression
