@@ -1,4 +1,4 @@
-# SoftwareEngineeringManagement
+# Mitochondrial Dysfunction and Dementia Analysis using Single-Cell RNA-Seq Data
 **Project Overview**
 The project utilizes single-cell RNA sequencing data from the CELLxGENE Census, focusing on samples related to dementia and normal cognitive function. We employ a comprehensive data analysis pipeline that includes data preprocessing, quality control, feature selection, and machine learning modeling.
 Key Features
