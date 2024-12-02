@@ -1,12 +1,13 @@
 # Mitochondrial Dysfunction and Dementia Analysis using Single-Cell RNA-Seq Data
 **Project Overview**
 The project utilizes single-cell RNA sequencing data from the CELLxGENE Census, focusing on samples related to dementia and normal cognitive function. We employ a comprehensive data analysis pipeline that includes data preprocessing, quality control, feature selection, and machine learning modeling.
-Key Features
-Data integration from multiple single-cell RNA-seq datasets
-Quality control and filtering of cellular data
-Analysis of mitochondrial gene expression and dysfunction markers
-Investigation of Alzheimer's disease progression using Braak staging
-Machine learning models to identify key features associated with dementia.
+
+***Key Features***
+1. Data integration from multiple single-cell RNA-seq datasets
+2. Quality control and filtering of cellular data
+3. Analysis of mitochondrial gene expression and dysfunction markers
+4. Investigation of Alzheimer's disease progression using Braak staging
+5. Machine learning models to identify key features associated with dementia.
 
 **Data Sources**
 The project uses three primary datasets from the CELLxGENE Census:
