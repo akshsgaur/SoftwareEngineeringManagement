@@ -45,10 +45,16 @@ Conduct statistical tests to compare different patient groups
 
 ***Usage***
 Clone the repository
+
 Install required packages: pip install -r requirements.txt
+
 Run the Jupyter notebook or Python scripts to perform the analysis
-Results
+
+**Results**
 The project aims to:
+
 Identify key genes and pathways associated with mitochondrial dysfunction in dementia
+
 Develop predictive models for disease progression based on gene expression profiles
+
 Provide insights into potential therapeutic targets for neurodegenerative diseases
