@@ -44,6 +44,7 @@ Implement other machine learning models to predict disease progression
 
 
 ***Deep Learning Framework***
+
 The deep learning framework incorporates the following key components:
 
 1. A multi-layer neural network architecture designed to handle high-dimensional single-cell gene expression data
